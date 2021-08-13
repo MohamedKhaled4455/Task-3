@@ -11,3 +11,6 @@ def check(N):
 
 N = 2
 check(N)
+  
+    
+# github_link: https://github.com/MohamedKhaled4455/Task-3.git
